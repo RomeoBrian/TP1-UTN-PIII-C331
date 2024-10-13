@@ -1,0 +1,266 @@
+html,
+body,
+.container-fluid {
+    font-family: Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+    color: #417cd3;
+    height: 100%;
+}
+
+.link-color {
+    color: white;
+}
+
+.link-color:hover {
+    color: white;
+}
+
+nav {
+    box-shadow: 0 4px #4e80cb;
+}
+
+.navbar-brand-db {
+    display: inline-block;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+header .logo-head a {
+    text-decoration: none;
+    background-color: transparent;
+    z-index: 1;
+}
+
+header .logo-head a img {
+    position: absolute;
+    top: 0px;
+    right: 450px;
+    width: 40px;
+    background-size: cover;
+    transition: 300ms all ease;
+    overflow: clip;
+}
+
+nav #navbarHeader ul li a {
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.carousel .carousel-item video {
+    padding-top: 4px;
+    min-width: 100%;
+    max-height: 550px;
+    width: 100%;
+}
+
+.carousel .carousel-item img {
+    position: absolute;
+    top: 15%;
+    left: 150px;
+    width: 15%;
+}
+
+#textoIntermedio {
+    text-align: center;
+    font-size: 1em;
+    font-weight: bold;
+    padding-top: 15px;
+}
+
+.img-esport {
+    overflow: hidden;
+}
+
+.us {
+    font-size: 2em;
+    overflow: hidden;
+    padding: 60px;
+}
+
+.imagen-section {
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+.img-esg {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url('../assets/esport-girl02.png');
+    overflow: hidden;
+}
+
+aside {
+    padding-top: 600px;
+    padding-bottom: 600px;
+}
+
+.sheta {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-image: url('../assets/pexels-polina-tankilevitch-6988597.jpg');
+}
+
+.h-5 {
+    height: 5% !important;
+}
+
+.h-4 {
+    height: 4% !important;
+}
+
+footer div ul {
+    margin-bottom: 0;
+}
+
+.footer-ta {
+    text-align: right;
+}
+
+.sheteamalpha {
+    max-width: 100%;
+    width: auto;
+    height: 90%;
+}
+
+.icon-size {
+    font-size: 1.5rem;
+}
+
+.bg-darkblue {
+    background-color: #417cd3;
+}
+
+.site-login img {
+    width: 50%;
+    overflow: hidden;
+}
+
+#form-signup {
+    display: none;
+}
+
+.section-login {
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+.login-wrapper {
+    width: 500px;
+    max-width: 100%;
+}
+
+.login-wrapper .form-control {
+    border: 0;
+    border-bottom: 1px solid #e7e7e7;
+    border-radius: 0;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 15px 10px;
+    margin-bottom: 7px;
+}
+
+.login-title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.login-btn {
+    padding: 13px 30px;
+    background-color: #417cd3;
+    border-radius: 0;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.login-btn:hover {
+    border: 1px solid #417cd3;
+    background-color: transparent;
+    color: #417cd3;
+}
+
+.forgot-password-link {
+    font-size: 14px;
+    color: #417cd3;
+    text-decoration: underline;
+}
+
+section h2 {
+    padding: 10px;
+}
+
+
+/*medias qrys para pantallas*/
+
+@media screen and (max-width: 2000px) {
+    header .logo-head a img {
+        top: 0px;
+        right: 180px;
+    }
+}
+
+@media screen and (max-width: 1300px) {
+    header .logo-head a img {
+        top: 0px;
+        right: 10px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .us {
+        font-size: 1em;
+        text-align: center;
+        overflow: hidden;
+        padding: 20px;
+    }
+    header .logo-head a img {
+        top: 5px;
+    }
+    .carousel .carousel-item img {
+        position: absolute;
+        top: 15%;
+        left: 15px;
+        width: 15%;
+    }
+    footer {
+        font-size: 1em;
+    }
+    .imagen-section {
+        padding-top: 150px;
+        padding-bottom: 100px;
+        padding-right: 390px;
+    }
+    #textoIntermedio {
+        font-size: 0.6em;
+        padding-top: 5px;
+    }
+    aside {
+        padding-top: 150px;
+        padding-bottom: 150px;
+    }
+    .section-login {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+}
+
+@media screen and (max-width: 512px) {
+    .footer-ta {
+        font-size: 0.7rem;
+        text-align: left !important;
+    }
+    .icon-size {
+        font-size: 1rem;
+    }
+    .w-50 {
+        width: 100% !important;
+    }
+}
