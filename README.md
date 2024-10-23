@@ -44,7 +44,9 @@ Usando la estructura estandar de un documento html, deberá crear un conjunto de
 Además, agregue la siguiente información a su archivo `README`:
 
 - ¿Hay alguna mejora que pueda hacer en su envío?
+-  `En principio finalizaria la pestaña cotacto, agregando formulario, en cuanto a diseño no creo uqe mojoraria nada por el momento, cuando tenga que agregar mas cosas al projecto iria viendo la integracion`
 - ¿Qué haría de manera diferente si se le asignara más tiempo?
+-   `Creo que el tiempo dado fue coherente para el tipo de trabajo pedido, no cambiaria nada en este caso, estoy contento con el resultado.`
   <br/>
   <br/>
 
@@ -102,3 +104,17 @@ Necesitará construir las siguientes pagínas:
 > Happy coding!
 
 <img src="https://user-images.githubusercontent.com/5693916/30273942-84252588-96fb-11e7-9420-5516b92cb1f7.gif" width="150">
+
+
+## Trabajo Práctico
+
+En base a su experiencia en el desarrollo de la parte práctica del TP1
+
+- ¿Hay alguna mejora que pueda hacer en su envío? (TP1)<br/>
+  `En principio finalizaria la pestaña cotacto, agregando formulario, en cuanto a diseño no creo uqe mojoraria nada por el momento, cuando tenga que agregar mas cosas al projecto iria viendo la integracion`<br/><br/>
+- ¿Qué haría de manera diferente si se le asignara más tiempo?<br/>
+  `Creo que el tiempo dado fue coherente para el tipo de trabajo pedido, no cambiaria nada en este caso, estoy contento con el resultado.`<br/><br/>
+- En su trabajo, ¿cuál considera que fue lo más difícil de realizar?<br/>
+  `En mi caso particular lo mas complicado fue el tema de las imagenes, ya que trabaje con una misma imagen sin tenerla en distintos tamaños, y el adaptarlo al responsive fue el reto, para poder seguir el diseño que tenia en mente y no modificarlo mucho`<br/><br/>
+- En las entregas, detectamos una gran variedad de temáticas únicas e interesantes. ¿Podría decirnos en qué se inspiró para realizar su página web? ¿Utilizó alguna página existente como referencia?<br/>
+  `En mi caso la Pagina la realice en base a un diseño que hizo mi novia, ella tiene una comunidad femenina de esports que se llama Team Alpha y ella habia realizado el diseño en un momento, adapte algunas cuestiones para cumplir con lo pedido en la consigna, pero estaba el diseño ya dado, y para ese diseño se habia tomado como referencia la pagina del equipo del kun aguaro KRU.`<br/><br/>
